@@ -1,0 +1,6 @@
+Website
+http://localhost
+
+PHPMyadmin
+http://localhost:8080/
+root/root
